@@ -1,0 +1,1 @@
+본 파일은 [OpenFontLicense](https://github.com/naver/d2codingfont/wiki/Open-Font-License)에 따라 배포되었습니다.
